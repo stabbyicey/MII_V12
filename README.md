@@ -1,14 +1,12 @@
-# MII_V12
-This is my first Moddddd YAYYYYYYYYYY GOOD JOB STABBYELI
-anywayss i think you got forge yea i bet you do
-lets get started
-first go to https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html
-and press DOWNLOAD
-good good
-alr after that start up mc
-and after that close that
-then do %appdata%
-and go to .minecraft and go to mods and put the mod in there
-and your done
-:)
-   -stabby
+## Developers
+
+* **Mel** - *Owner and head developer* - [GitHub Profile](https://github.com/melmsie)
+* **Aetheryx** - *Retired - Core infrastructure* - [GitHub Profile](https://github.com/Aetheryx)
+* **CyberRonin** - *Dashboard and webhooks* [Github Profile](https://github.com/TheCyberRonin)
+* **Kromatic** - *Image server and sound effects* [Github Profile](https://github.com/Devoxin)
+* **Blake** - *didn't get 2000th commit* [Github Profile](https://github.com/zBlakee)
+* **Paradox** - *didn't get 2000th commit* [Github Profile](https://github.com/ParadoxOrigins)
+* **Yukine** - *New developer* [Github Profile](https://github.com/Dev-Yukine)
+* **Perry** - *New developer that argues a lot* [Github Profile](https://github.com/perryprog)
+
+See also the list of [contributors](https://github.com/melmsie/Dank-Memer/contributors) who participated in this project.
